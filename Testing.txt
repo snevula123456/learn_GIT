@@ -1,3 +1,7 @@
 Something is better than nothing
+<<<<<<< HEAD
 nothing
 Testing 2
+=======
+git branching for testing
+>>>>>>> refs/remotes/origin/master
